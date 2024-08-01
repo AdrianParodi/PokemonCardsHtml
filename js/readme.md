@@ -1,0 +1,1 @@
+Utilicé tarjetas de bootstrap
